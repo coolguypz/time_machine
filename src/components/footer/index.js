@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer(){
     return(
-        <div className='container'>
+        <div className='container mb-3'>
             <hr className='hr'/>
             <div className='row'>
                 <div className='col'>首页</div>   

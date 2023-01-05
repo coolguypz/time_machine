@@ -10,8 +10,7 @@ function MYACCOUNT(){
             <REWARD />
             <TOOL />
         </div>
-    )
-  
+    );
 }
 
 export default MYACCOUNT;
